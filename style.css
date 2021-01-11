@@ -1,0 +1,63 @@
+body{
+  
+    Background-color:rgb(0,0,255)
+    
+}
+
+h1{
+    color: rgb(255, 251, 0);
+    text-align: center;
+    font-weight: 800;
+    font-family: fantasy;
+    opacity: 0.5;
+
+}
+.first{
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 10px;
+    border-color: white;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    color:darkblue;
+    font-family: 'Josefin Slab', serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+.second{
+    text-align: center;
+    color: ivory;
+}
+
+.table{
+    color:black
+    font-style: italic;
+}
+h2{
+    color:rgb(128, 109, 0);
+    font-weight: 800;
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    opacity: 0.5;
+}
+.jumbotron{
+    background-color:transparent;
+    color:black;
+    font-family: 'Josefin Slab', serif;
+    font-size: 20px;
+}
+h3{
+    color: white;
+    font-family: 'Rochester', cursive;
+    font-size: 25px;
+    opacity: 0.7;
+}
+.form-control{
+    background-color: white;
+    opacity: 0.3;
+    font-size: 20px;
+    
+}
