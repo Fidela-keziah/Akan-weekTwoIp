@@ -5,7 +5,7 @@
 {Akan naming is a ghanian culture, where children are given their first name as a 'day name' which corresponds to the day in the week they were born. it is an interesting culture.}
 ## Setup/Installation Requirements
 * UBUNTU
-* Open Terminal
+* visual code
 * Google Chrome
 * internet
 * [git clone] (https://github.com/Fidela-keziah/Akan-project.git)
