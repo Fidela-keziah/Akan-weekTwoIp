@@ -2,12 +2,12 @@
 #### A Project that will reveal the name based on the day of the week you were born, 11 January 2021
 #### By **Fidela Keziah**
 ## Description
-{Akan naming is a ghanian culture, where children are given their first name as a 'day name' which corresponds to the day in the week they were born. it is an interesting culture.}
+Akan naming is a ghanian culture, where children are given their first name as a 'day name' which corresponds to the day in the week they were born. An interesting culture!.
+this project will help you to know your akan name. lets get started!
 ## Setup/Installation Requirements
 * UBUNTU
 * visual code
 * Google Chrome
-* internet
 * [git clone] (https://github.com/Fidela-keziah/Akan-project.git)
 ## Technologies Used
 * HTML
