@@ -1,4 +1,4 @@
-# {Akan Names}
+# Akan Names
 #### {A Project that will reveal the name based on the day of the week you were born}, {11 January 2021}
 #### By **{Fidela Keziah}**
 ## Description
